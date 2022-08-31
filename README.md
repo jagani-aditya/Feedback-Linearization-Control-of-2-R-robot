@@ -8,7 +8,7 @@ Trajectories are generated for each arm using a cubic polynomial to reach desire
 
 ## Demonstration
 <p align="center">
-  <img src=img/rrbot_1.png" />
+  <img src="img/rrbot_1.png" />
 </p>
 
 <p align="center">
